@@ -426,10 +426,6 @@ main {
   background: var(--base-color);
 }
 
-.icon-phone {
-  border: 1px solid red;
-}
-
 /* ========= Contact ============== */
 
 #contact .grid {

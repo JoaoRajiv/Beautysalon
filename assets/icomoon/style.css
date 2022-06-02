@@ -1,20 +1,19 @@
 @font-face {
   font-family: 'icomoon';
-  src: url('fonts/icomoon.eot?3i5lzm');
-  src: url('fonts/icomoon.eot?3i5lzm#iefix') format('embedded-opentype'),
-    url('fonts/icomoon.ttf?3i5lzm') format('truetype'),
-    url('fonts/icomoon.woff?3i5lzm') format('woff'),
-    url('fonts/icomoon.svg?3i5lzm#icomoon') format('svg');
+  src:  url('fonts/icomoon.eot?fppzch');
+  src:  url('fonts/icomoon.eot?fppzch#iefix') format('embedded-opentype'),
+    url('fonts/icomoon.ttf?fppzch') format('truetype'),
+    url('fonts/icomoon.woff?fppzch') format('woff'),
+    url('fonts/icomoon.svg?fppzch#icomoon') format('svg');
   font-weight: normal;
   font-style: normal;
   font-display: block;
 }
 
-[class^='icon-'],
-[class*=' icon-'] {
+[class^="icon-"], [class*=" icon-"] {
   /* use !important to prevent issues with browser extensions that change fonts */
   font-family: 'icomoon' !important;
-  /* speak: never; */
+  speak: never;
   font-style: normal;
   font-weight: normal;
   font-variant: normal;
@@ -27,41 +26,38 @@
 }
 
 .icon-close:before {
-  content: '\e900';
+  content: "\e900";
 }
 .icon-cosmetic:before {
-  content: '\e901';
+  content: "\e901";
 }
 .icon-facebook:before {
-  content: '\e902';
+  content: "\e902";
 }
 .icon-instagram:before {
-  content: '\e903';
+  content: "\e903";
 }
 .icon-mail:before {
-  content: '\e904';
+  content: "\e904";
 }
 .icon-map-pin:before {
-  content: '\e905';
+  content: "\e905";
 }
 .icon-menu:before {
-  content: '\e906';
-}
-.icon-phone:before {
-  content: '\e907';
+  content: "\e906";
 }
 .icon-trim:before {
-  content: '\e908';
+  content: "\e908";
 }
 .icon-whatsapp:before {
-  content: '\e909';
+  content: "\e909";
 }
 .icon-woman-hair:before {
-  content: '\e90a';
+  content: "\e90a";
 }
 .icon-youtube:before {
-  content: '\e90b';
+  content: "\e90b";
 }
 .icon-phone1:before {
-  content: '\e90c';
+  content: "\e90c";
 }
